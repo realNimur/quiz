@@ -1,0 +1,20 @@
+body {
+    background: #F5F6F7;
+}
+
+.phone {
+    color: #2E353D;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.main-image {
+    width: 558px;
+    object-fit: contain;
+    box-shadow: 0px 10px 25px rgba(103, 103, 103, 0.1);
+    border-radius: 10px;
+}
+
+.decor-navbar {
+    margin-bottom: 96px;
+}
